@@ -10,7 +10,7 @@ export default Untitled3;
 
 const _styles = StyleSheet.create({
   mnrnJxFd: {
-    backgroundColor: "#f0f0f1",
+    backgroundColor: "#6666df",
     padding: 10,
     position: "relative",
     height: "100%"
